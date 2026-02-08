@@ -2,14 +2,8 @@ Sentinel is a low-level, packet-driven anti-cheat system built for modern Minecr
 It is not designed to be loud. It is designed to be correct.  
 Sentinel does not chase cheats. It waits, observes, and confirms.
 
- ____  _____ _      _____ _  _      _____ _    
-/ ___\/  __// \  /|/__ __Y \/ \  /|/  __// \   
-|    \|  \  | |\ ||  / \ | || |\ |||  \  | |   
-\___ ||  /_ | | \||  | | | || | \|||  /_ | |_/\
-\____/\____\\_/  \|  \_/ \_/\_/  \|\____\\____/
-                                               
-
-Sentinel Anti-Cheat
+    SENTINEL ANTI-CHEAT
+==========================
 
 > Trust the server.
 > Distrust the client.
