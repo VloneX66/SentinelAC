@@ -14,9 +14,9 @@ Sentinel Anti-Cheat
 > Distrust the client.
 > Prove everything.
 
-===============================================================================
+=====================
 DESIGN MENTALITY
-===============================================================================
+=====================
 
 - The client is hostile
 - Lag is exploitable
