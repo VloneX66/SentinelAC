@@ -14,7 +14,6 @@ Sentinel Anti-Cheat
 > Distrust the client.
 > Prove everything.
 
-=====================
 DESIGN MENTALITY
 =====================
 
